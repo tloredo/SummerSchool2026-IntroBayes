@@ -15,6 +15,6 @@ Also included is a brief, nontechnical note (unpublished) on the AIC, BIC, and D
 
 Recorded lectures (available through July; requires passcode provided to summer school attendees via Slack):
 
-* [Lecture 1](https://vod.video.cornell.edu/media/Introduction+to+Bayesian+Inference+for+Astronomy+1+-+2025+CASt+Summer+School/1_anzswtpw) (1h 15m)
-* [Lecture 2](https://vod.video.cornell.edu/media/Introduction+to+Bayesian+Inference+for+Astronomy+2+-+2025+CASt+Summer+School/1_q62ozskw) (1h 22m)
-* [Extra topics](https://vod.video.cornell.edu/media/Introduction+to+Bayesian+Inference+for+Astronomy+-+Extra+Topics+-+2025+CASt+Summer+School/1_7ab8n2yd) (27m)
+* [Lecture 1](https://vod.video.cornell.edu/media/Introduction+to+Bayesian+Inference+for+Astronomy+1+-+2026+CASt+Summer+School/1_x70t4hwy) (1h 15m)
+* [Lecture 2 (main lecture)](https://vod.video.cornell.edu/media/Introduction+to+Bayesian+Inference+for+Astronomy+2+%28main%29+-+2026+CASt+Summer+School/1_etzl3gn5) (1h 22m)
+* [Lecture 2 (extra topics)](https://vod.video.cornell.edu/media/Introduction+to+Bayesian+Inference+for+Astronomy+2+%28extra+topics%29+-+2026+CASt+Summer+School/1_tlq2xudc) (27m)
