@@ -11,6 +11,10 @@ Also included is a brief, nontechnical note (unpublished) on the AIC, BIC, and D
 
 * [Understanding information criteria for model selection](./Loredo2010-UnderstandingInfoCriteria.pdf) (Loredo 2010)
 
+In addition, there is a slide deck on understanding p-values:
+
+* [Just call it a p-value! (not a hypothesis probability, not a false alarm probability)](CASt26-PValueNote.pdf)
+
 
 
 Recorded lectures (available through July; requires passcode provided to summer school attendees via Slack):
